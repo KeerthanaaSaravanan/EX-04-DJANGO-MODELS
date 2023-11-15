@@ -42,7 +42,7 @@ Run the program
 
 # OUTPUT:
 
-
+![Alt text](<EX-4 OUTPUT.png>)
 
 # RESULT:
 
